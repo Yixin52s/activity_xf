@@ -1,6 +1,6 @@
 {
-	"version": "v2.55",
-	"versionCode": 4300,
-	"zipUrl": "https://gzc-download.ftn.qq.com/ftn_handler/8D5AD4911B3E2807D35556D026A70FBD09A575D42DB334BAAC0E63F0F520E0271FA0823397082E5881953FB014E53A403FEBF85246F8BCC0269A7752D12140D5/&client_proto=qq",
-	"changelog": "https://gzc-download.ftn.qq.com/ftn_handler/30625B86E618ED2B209EA98D77F12BF1FC61AE31F2DB08FA4E8E528135C6E0F0395264855C3B41FC89302A0FC0B9928AA9BA64A7060FE29602B59A489B2E843F/&client_proto=qq"
+	"version": "v2.55.1",
+	"versionCode": 4310,
+	"zipUrl": "127.0.0.1",
+	"changelog": "https://127.0.0.1"
 }
